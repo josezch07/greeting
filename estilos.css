@@ -11,9 +11,10 @@ body{
     justify-content: center;
     text-align: center;
     height: 100vh;
-    color: black;
+    color: white;
     background-position: center;
     background-size: cover;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6))
 }
 #time{
     font-size: 8rem;
