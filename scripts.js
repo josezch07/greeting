@@ -49,34 +49,34 @@ function setBg(){
         focus.textContent = "Study HTML,CSS and a little of JS"
     }else if(hour >=12 && hour <= 18){
         if(hour == 13){
-            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/afternoon-${random}.jpg)`
+            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(img/afternoon-${random}.jpg)`
         greeting.textContent = "Good Afternoon"
         focus.textContent = "Study Hard JS"
         body.style.color="#fff"
         
 
         }else if(hour == 14){
-            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/afternoon-${random}.jpg)`
+            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(img/afternoon-${random}.jpg)`
             greeting.textContent = "Good Afternoon"
             focus.textContent = "Study Hard JS"
             body.style.color="#fff"
         } else if(hour == 15){
-            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/afternoon-${random}.jpg)`
+            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(img/afternoon-${random}.jpg)`
             greeting.textContent = "Good Afternoon"
             focus.textContent = "Study Hard JS"
             body.style.color="#fff"
         }else if(hour == 16){
-            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/afternoon-${random}.jpg)`
+            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(img/afternoon-${random}.jpg)`
             greeting.textContent = "Good Afternoon"
             focus.textContent = "Study Hard JS"
             body.style.color="#fff"
         }else if(hour == 17){
-            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/afternoon-${random}.jpg)`
+            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(img/afternoon-${random}.jpg)`
             greeting.textContent = "Good Afternoon"
             focus.textContent = "Study Hard JS"
             body.style.color="#fff"
         } else if(hour == 18){
-            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/afternoon-${random}.jpg)`
+            body.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(img/afternoon-${random}.jpg)`
             greeting.textContent = "Good Afternoon"
             focus.textContent = "Study Hard JS"
             body.style.color="#fff"
